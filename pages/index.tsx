@@ -31,7 +31,7 @@ const Home: NextPage = () => {
       
 
       <h1>A game I made</h1>
-      <iframe width="552" height="200" frameborder="0" src="https://itch.io/embed/1030243"><a href="https://penkey21.itch.io/project-to-the-moon">Project To the moon by penkey21</a></iframe>
+      <iframe width="552" height="200"  src="https://itch.io/embed/1030243"><a href="https://penkey21.itch.io/project-to-the-moon">Project To the moon by penkey21</a></iframe>
         
       <br>
       </br>
